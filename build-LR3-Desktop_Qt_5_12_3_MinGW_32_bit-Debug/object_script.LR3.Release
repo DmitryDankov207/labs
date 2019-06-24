@@ -1,0 +1,11 @@
+release/createwindow.o
+release/list.o
+release/main.o
+release/mainwindow.o
+release/myexception.o
+release/pluralattributesearchwindow.o
+release/singleattributesearchwindow.o
+release/moc_createwindow.o
+release/moc_mainwindow.o
+release/moc_pluralattributesearchwindow.o
+release/moc_singleattributesearchwindow.o

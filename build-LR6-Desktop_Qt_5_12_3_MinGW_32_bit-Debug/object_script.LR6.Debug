@@ -1,0 +1,10 @@
+debug/additemwindow.o
+debug/main.o
+debug/mainwindow.o
+debug/tree.o
+debug/treeviewwindow.o
+debug/treewindow.o
+debug/moc_additemwindow.o
+debug/moc_mainwindow.o
+debug/moc_treeviewwindow.o
+debug/moc_treewindow.o

@@ -1,0 +1,11 @@
+debug/createwindow.o
+debug/list.o
+debug/main.o
+debug/mainwindow.o
+debug/myexception.o
+debug/pluralattributesearchwindow.o
+debug/singleattributesearchwindow.o
+debug/moc_createwindow.o
+debug/moc_mainwindow.o
+debug/moc_pluralattributesearchwindow.o
+debug/moc_singleattributesearchwindow.o

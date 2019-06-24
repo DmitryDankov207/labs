@@ -1,0 +1,10 @@
+release/additemwindow.o
+release/main.o
+release/mainwindow.o
+release/tree.o
+release/treeviewwindow.o
+release/treewindow.o
+release/moc_additemwindow.o
+release/moc_mainwindow.o
+release/moc_treeviewwindow.o
+release/moc_treewindow.o
